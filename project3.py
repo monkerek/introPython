@@ -1,3 +1,11 @@
+# http://www.codeskulptor.org/#user30_wHYnTEWGVC_19.py
+# =============
+
+
+
+
+
+
 import simplegui
 # define global variables
 time = 0
