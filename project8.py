@@ -1,5 +1,5 @@
 # http://www.codeskulptor.org/#user33_7zMV8vM8lI_9.py
-===========================================================
+#===========================================================
 
 # implementation of Spaceship - program template for RiceRocks
 import simplegui
